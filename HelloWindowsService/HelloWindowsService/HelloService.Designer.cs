@@ -1,6 +1,6 @@
 ﻿namespace HelloWindowsService
 {
-    partial class Service1
+    partial class HelloService
     {
         /// <summary> 
         /// Required designer variable.
@@ -28,10 +28,18 @@
         /// </summary>
         private void InitializeComponent()
         {
-            components = new System.ComponentModel.Container();
-            this.ServiceName = "Service1";
+            this.myEventLog = new System.Diagnostics.EventLog();
+            ((System.ComponentModel.ISupportInitialize)(this.myEventLog)).BeginInit();
+            // 
+            // HelloService
+            // 
+            this.ServiceName = "HelloService";
+            ((System.ComponentModel.ISupportInitialize)(this.myEventLog)).EndInit();
+
         }
 
         #endregion
+
+        private System.Diagnostics.EventLog myEventLog;
     }
 }

@@ -1,0 +1,16 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "3277b436-8abc-45a2-98f1-56b6580fb956": {
+      "ProjectGuid": "3277b436-8abc-45a2-98f1-56b6580fb956",
+      "DisplayName": "HelloWindowsService",
+      "ColorIndex": 0
+    },
+    "02b778a1-9c09-41c6-bb6b-d4b798eec63f": {
+      "ProjectGuid": "02b778a1-9c09-41c6-bb6b-d4b798eec63f",
+      "DisplayName": "Doc",
+      "ColorIndex": 1
+    }
+  },
+  "NextColorIndex": 2
+}
