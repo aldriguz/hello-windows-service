@@ -32,7 +32,23 @@ namespace HelloWindowsService
             myEventLog.WriteEntry("Here comes the end! :c", EventLogEntryType.Information, ++eventId);
         }
 
+        
+        //No common events added
 
+        protected override void OnPause()
+        {
+            base.OnPause();
+        }
+
+        protected override void OnContinue()
+        {
+            base.OnContinue();
+        }
+
+        protected override void OnShutdown()
+        {
+            base.OnShutdown();
+        }
 
 
         #region private methods
