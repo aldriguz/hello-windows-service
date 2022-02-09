@@ -4,3 +4,10 @@ Windows service that says hello world and is attached to an installer project th
 Dependencies
 * NetFramework 4.8
 * That's all for now
+
+What to learn
+* Windows services workflow
+* Visual Studio Installer Projects
+* Event logs
+* Timers
+* Releases with GitHub
