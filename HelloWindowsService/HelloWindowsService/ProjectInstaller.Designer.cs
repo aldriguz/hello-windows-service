@@ -39,7 +39,7 @@
             // 
             // serviceInstaller1
             // 
-            this.serviceInstaller1.Description = "My favorite service";
+            this.serviceInstaller1.Description = "This is a hello world service";
             this.serviceInstaller1.DisplayName = "Hello Service";
             this.serviceInstaller1.ServiceName = "HelloService";
             this.serviceInstaller1.StartType = System.ServiceProcess.ServiceStartMode.Automatic;

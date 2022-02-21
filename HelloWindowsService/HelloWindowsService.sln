@@ -12,8 +12,6 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Doc", "Doc", "{02B778A1-9C0
 EndProject
 Project("{54435603-DBB4-11D2-8724-00A0C9A8B90C}") = "Setup", "Setup\Setup.vdproj", "{89BF7A86-3DD6-4CD3-8FD6-C1B63612F23A}"
 EndProject
-Project("{54435603-DBB4-11D2-8724-00A0C9A8B90C}") = "SetupWizard", "SetupWizard\SetupWizard.vdproj", "{90757BAC-07BA-4105-8ECE-176DC2B15B9A}"
-EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -26,8 +24,6 @@ Global
 		{3277B436-8ABC-45A2-98F1-56B6580FB956}.Release|Any CPU.Build.0 = Release|Any CPU
 		{89BF7A86-3DD6-4CD3-8FD6-C1B63612F23A}.Debug|Any CPU.ActiveCfg = Debug
 		{89BF7A86-3DD6-4CD3-8FD6-C1B63612F23A}.Release|Any CPU.ActiveCfg = Release
-		{90757BAC-07BA-4105-8ECE-176DC2B15B9A}.Debug|Any CPU.ActiveCfg = Debug
-		{90757BAC-07BA-4105-8ECE-176DC2B15B9A}.Release|Any CPU.ActiveCfg = Release
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
