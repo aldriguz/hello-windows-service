@@ -11,6 +11,7 @@ Windows service that says hello world and is attached to an installer project th
 * Event logs
 * Timers
 * Releases with GitHub
+* Adding Jenkins integration *-new-*
 
 ## Documentation
 * https://docs.microsoft.com/en-us/dotnet/framework/windows-services/
